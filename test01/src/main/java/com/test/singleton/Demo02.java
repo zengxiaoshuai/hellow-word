@@ -5,7 +5,8 @@ package com.test.singleton;
  */
 //多线程访问可能会有线程不安全问题，不是完美单例
 public class Demo02 {
-    private static  Demo02 INSTANCE;
+    //双重检测要加volatile关键字，禁止指令重排序
+    private static volatile Demo02 INSTANCE;
 
     private Demo02() {
     }
