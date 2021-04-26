@@ -1,4 +1,4 @@
-package com.test.mytest;
+package com.test.singleton;
 
 public class FirstTest {
     public static void main(String[] args) {

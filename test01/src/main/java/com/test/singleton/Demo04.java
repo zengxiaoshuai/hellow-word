@@ -1,4 +1,4 @@
-package com.test.mytest;
+package com.test.singleton;
 
 /**
  * 枚举单例

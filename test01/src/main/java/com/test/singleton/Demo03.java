@@ -1,6 +1,4 @@
-package com.test.mytest;
-
-import org.omg.CORBA.PUBLIC_MEMBER;
+package com.test.singleton;
 
 /**
  * 静态内部类单例
