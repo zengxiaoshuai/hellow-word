@@ -1,4 +1,4 @@
-package com.test.factory.builder;
+package com.test.builder;
 
 public abstract class CourseBuilder {
     /*private String video;

@@ -1,4 +1,4 @@
-package com.test.factory.builder;
+package com.test.builder;
 
 public class CourseRealBuilder extends CourseBuilder {
     private Course course = new Course();

@@ -1,4 +1,4 @@
-package com.test.factory.builder.v2;
+package com.test.builder.v2;
 
 public class Course {
     private String video;
