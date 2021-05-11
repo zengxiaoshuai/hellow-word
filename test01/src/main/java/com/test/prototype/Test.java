@@ -1,5 +1,9 @@
 package com.test.prototype;
 
+/**
+ * 关于原型模式个人见解：
+ *      需要创建多个重复对象可以考虑使用原型模式，使用原型模式一定要注意类里面的引用类型是否需要用到深克隆
+ */
 public class Test {
     public static void main(String[] args) throws CloneNotSupportedException {
         Email email = new Email();
