@@ -1,7 +1,7 @@
 package com.test.facade;
 
 /**
- * 装饰者模式 ： 又名门面模式
+ * 外观模式
  *      将所有复杂逻辑封装在一起，对外暴露简单调用接口，调用者不用了解里面复杂逻辑
  */
 public class Test {
