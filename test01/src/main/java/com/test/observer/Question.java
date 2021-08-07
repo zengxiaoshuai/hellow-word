@@ -21,4 +21,5 @@ public class Question {
     public void setCourseQuestion(String courseQuestion) {
         this.courseQuestion = courseQuestion;
     }
+
 }
